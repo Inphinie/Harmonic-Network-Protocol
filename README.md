@@ -18,7 +18,9 @@
 [![Streamlit App](https://img.shields.io/badge/🌊_LAUNCH_LIVE_DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lichen-universe-unified-v2-wehhhdik2aznw4eh7xf7ay.streamlit.app/)
 
 </div>
+
 ---
+
 ## 📡 Vision & Rupture
 
 Le **Holographic Network Protocol (HNP)** propose un changement de paradigme radical par rapport aux modèles OSI classiques (TCP/IP). Au lieu de diriger des paquets via des tables de routage statiques, le HNP traite l'information comme une **onde**.
