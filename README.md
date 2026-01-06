@@ -17,6 +17,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/🌊_LAUNCH_LIVE_DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lichen-universe-unified-v2-wehhhdik2aznw4eh7xf7ay.streamlit.app/)
 
+</div>
 ---
 ## 📡 Vision & Rupture
 
@@ -87,4 +88,3 @@ Les fondements mathématiques (Interférences, E8, Équations de flux) sont dét
 ---
 
 *"Le chemin le plus court n'est pas une ligne droite, c'est une onde stationnaire."*
-</div>
