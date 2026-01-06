@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌐 H.N.P. (Holographic Network Protocol)
 **Lichen Universe Network Layer**
 
@@ -9,8 +11,6 @@
 [![Status](https://img.shields.io/badge/Status-Experimental_Alpha-red?style=for-the-badge)](./lichen_demo.py)
 
 ---
-
-<div align="center">
 
 ## 🎮 LIVE DEMO
 ### Experience the Harmonic Architecture in Real-Time
