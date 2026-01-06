@@ -408,5 +408,3 @@ Apache License 2.0 - See [LICENSE](https://www.google.com/search?q=LICENSE) file
 **Made with 💚 by humans (and AI) for a more harmonious digital world**
 
 ```
-
-```
